@@ -1,0 +1,17 @@
+header p {
+  background-color: #fa8072;
+  color: #000000;
+  width: 300px;
+  padding: 30px;
+  margin: 20px auto 50px auto;
+  border-radius: 20px;
+  font-family: "poppins medium", sans-serif;
+}
+
+header p:hover {
+  background-color: #ffffff;
+}
+
+ol h2 {
+  margin-top: 20px;
+}
